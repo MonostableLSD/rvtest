@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/libusb/libusb/releases
+HostUrl=https://github-releases.githubusercontent.com/15120676/1931b600-3ad7-11eb-8d53-28ab8acfcdd3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210928%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210928T093420Z&X-Amz-Expires=300&X-Amz-Signature=13c497a22c2fe155e9fe3d744a8277dbbce228d10defd3a0e912264127494018&X-Amz-SignedHeaders=host&actor_id=21007964&key_id=0&repo_id=15120676&response-content-disposition=attachment%3B%20filename%3Dlibusb-1.0.24.tar.bz2&response-content-type=application%2Foctet-stream
